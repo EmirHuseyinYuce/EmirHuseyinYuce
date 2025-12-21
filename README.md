@@ -67,7 +67,7 @@ Benimle her türlü proje, iş birliği veya sadece teknik sohbet için iletişi
 * **Teknik Destek:** Web tasarımı veya yazılım süreçlerinde takıldığınız noktalarda yardımcı olabilirim.
 * **Donanım:** Donanım seçimleri ve optimizasyon konularında fikir alışverişi yapabiliriz.
 
-* 🏆Başarılarım
+## 🏆Başarılarım
 * Kodland Python level 1  1. lik sertifikası.
 * Kodland Python Pro level 2  1. lik sertifikası.
 * Siber güvenlik Uzmanlık sertifikası BMD.
