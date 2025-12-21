@@ -163,9 +163,12 @@ Modern ve estetik web arayüzleri tasarlarken performansı ve kullanıcı deneyi
 Benimle her türlü proje, iş birliği veya sadece teknik sohbet için iletişime geçebilirsiniz. Yeni insanlarla tanışmak ve topluluğa katkıda bulunmak benim için çok değerli!
 
 
+
 * **İş Birliği:** Yeni ve yenilikçi projelerde yer almaya her zaman açığım.
+* 
 
 * **Teknik Destek:** Web tasarımı veya yazılım süreçlerinde takıldığınız noktalarda yardımcı olabilirim.
+* 
 
 * **Donanım:** Donanım seçimleri ve optimizasyon konularında fikir alışverişi yapabiliriz.
 
