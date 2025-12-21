@@ -11,9 +11,10 @@
 4.  [🌐 Web Geliştirme (Frontend & Backend)](#-web-geliştirme-frontend--backend)
 5.  [💻 Yazılım & Sistem](#-yazılım--sistem)
 6.  [📈 Yazılım Yolculuğum ve İstatistikler](#-yazılım-yolculuğum-ve-istatistikler)
-7.  [🤝 İş Birliği ve İletişim](#-iş-birliği-ve-iletişim)
-8.  [💬 Benimle Bağlantı Kurun](#-benimle-bağlantı-kurun)
-9.  [⚡ Eğlenceli Gerçekler (Fun Facts)](#-eğlenceli-gerçekler)
+7.  [🏆Başarılarım](#-Başarılarım)
+8.  [🤝 İş Birliği ve İletişim](#-iş-birliği-ve-iletişim)
+9.  [💬 Benimle Bağlantı Kurun](#-benimle-bağlantı-kurun)
+10.  [⚡ Eğlenceli Gerçekler (Fun Facts)](#-eğlenceli-gerçekler)
 
 ---
 
@@ -65,6 +66,13 @@ Benimle her türlü proje, iş birliği veya sadece teknik sohbet için iletişi
 * **İş Birliği:** Yeni ve yenilikçi projelerde yer almaya her zaman açığım.
 * **Teknik Destek:** Web tasarımı veya yazılım süreçlerinde takıldığınız noktalarda yardımcı olabilirim.
 * **Donanım:** Donanım seçimleri ve optimizasyon konularında fikir alışverişi yapabiliriz.
+
+* 🏆Başarılarım
+* Kodland Python level 1  1. lik sertifikası.
+* Kodland Python Pro level 2  1. lik sertifikası.
+* Siber güvenlik Uzmanlık sertifikası BMD.
+* Açık Kaynak Kodları Aktif Paylaşımlar.
+* Aktif Olarak Unity Unreal Engine Oyun Geliştirme Çalışmaları
 
 ## 💬 Benimle Bağlantı Kurun
 Eğer projelerimi beğendiyseniz veya üzerinde konuşmak istediğiniz bir fikriniz varsa, bana ulaşmaktan çekinmeyin!
