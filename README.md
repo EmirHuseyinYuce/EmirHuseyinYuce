@@ -85,11 +85,11 @@ Modern ve estetik web arayüzleri tasarlarken performansı ve kullanıcı deneyi
 
 
 
-* **Diller:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `PHP`
+* **Diller:** `HTML5`, `CSS3`, `JavaScript`, `Python `, `React`, `C++`
 
 
 
-* **Veritabanı:** `MySQL`, `MongoDB`
+* **Veritabanı:** `MySQL`
 
 
 
