@@ -1,4 +1,4 @@
-# 📔 Emir Hüseyin Yüce
+# 📔 Emir Hüseyin
 
 
 
